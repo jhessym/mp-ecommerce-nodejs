@@ -30,7 +30,7 @@ class PaymentService {
 
     const preferences = {
       items,
-      external_reference: "jhessy7777@gmail.com",
+      external_reference: "millanmarcanojhessyeunice@gmail.com",
       payer: {
         name: "Lalo",
         surname: "Landa",
